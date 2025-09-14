@@ -1,4 +1,4 @@
-import { RevealOnScroll } from "../RevealOnScroll";
+import { RevealOnScroll } from "..Components/RevealOnScroll";
 
 export const Home = () => {
   return (
